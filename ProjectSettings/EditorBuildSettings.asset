@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LocationList.unity
+    guid: d25af4de57eac7442af4a4db4c072687
+  - enabled: 1
+    path: Assets/Scenes/Localized.unity
+    guid: b3c3eb95cd02b9944a03026767bbb4b7
+  - enabled: 1
+    path: Assets/Scenes/ChestTutorial.unity
+    guid: c36b4f0be137d2542a6dfe6dac6ad715
+  - enabled: 1
+    path: Assets/Scenes/FightTutorial.unity
+    guid: 05004b60e6d86e6499e3f028664de844
   m_configObjects: {}

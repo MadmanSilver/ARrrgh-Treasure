@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
+  - Chest
   layers:
   - Default
   - TransparentFX
@@ -13,13 +15,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - sky
+  - ground
+  - artificial_ground
+  - water
+  - building
+  - foliage
+  - grass
   - 
   - 
   - 
