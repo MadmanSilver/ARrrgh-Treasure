@@ -26,5 +26,6 @@
   <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
   <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
   <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+  <uses-feature android:name="android.permission.ACCESS_FINE_LOCATION" />
   <queries> <package android:name="com.google.ar.core" /> </queries>
 </manifest>
